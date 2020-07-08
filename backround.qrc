@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/backround.jpg</file>
+        <file>img/backround2.jpg</file>
+        <file>img/backround3.jpg</file>
+        <file>img/backroundblack.jpg</file>
+        <file>img/backroundbutton.jpg</file>
+        <file>img/backroundlogin.jpg</file>
+        <file>img/backroundwhite.jpg</file>
+        <file>img/przezroczyste.png</file>
+    </qresource>
+</RCC>
